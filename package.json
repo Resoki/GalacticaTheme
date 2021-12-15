@@ -2,12 +2,17 @@
     "name": "galactica-theme",
     "displayName": "Galactica Theme",
     "description": "Theme for Vs.Code",
+    "publisher": "galactica-theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
     },
     "author": {
         "name": "Resoki"
+    },
+    "repository": {
+        "url": "https://github.com/Resoki/GalacticaTheme",
+        "type": "git"
     },
     "categories": [
         "Themes"
