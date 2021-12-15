@@ -2,8 +2,8 @@
 	"name": "Galactica Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#182227",
+		"editor.foreground": "#217e7e",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#696d4b"
 			}
 		},
 		{
@@ -26,6 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#EEFFFF"
 			}
 		},
@@ -58,7 +59,7 @@
 			"settings": {
 				"foreground": "#C792EA"
 			}
-		},
+		}, 
 		{
 			"name": "Operator, Misc",
 			"scope": [
@@ -76,6 +77,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#89DDFF"
 			}
 		},
@@ -100,6 +102,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -109,7 +112,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#6b9dc7"
 			}
 		},
 		{
@@ -119,7 +122,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#6b9dc7"
 			}
 		},
 		{
@@ -135,7 +138,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"fontStyle": "bold",
+				"foreground": "#ebe834"
 			}
 		},
 		{
@@ -150,7 +154,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#f1e360"
 			}
 		},
 		{
@@ -166,6 +170,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#FFCB6B"
 			}
 		},
@@ -426,7 +431,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#bebebe"
 			}
 		},
 		{
