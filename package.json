@@ -6,6 +6,9 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "author": {
+        "name": "Resoki"
+    },
     "categories": [
         "Themes"
     ],
