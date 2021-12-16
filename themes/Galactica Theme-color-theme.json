@@ -139,8 +139,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#ebe834"
+				"foreground": "#6d54e0"
 			}
 		},
 		{
@@ -155,7 +154,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#9c5e8f",
+				"foreground": "#d66fc0",
 				"fontStyle": "italic"
 			}
 		},
@@ -508,7 +507,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#812285"
 			}
 		},
 		{
