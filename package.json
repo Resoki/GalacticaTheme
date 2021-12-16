@@ -3,7 +3,7 @@
     "displayName": "Galactica Theme",
     "description": "Theme for Vs.Code",
     "publisher": "galactica-theme",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.63.0"
     },
