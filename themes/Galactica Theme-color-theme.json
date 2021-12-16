@@ -2,7 +2,7 @@
 	"name": "Galactica Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#247a7a",
+		"editor.background": "#202a36",
 		"editor.foreground": "#aa2aff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
