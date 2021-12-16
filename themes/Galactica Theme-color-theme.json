@@ -5,7 +5,7 @@
 		"editor.background": "#202a36",
 		"editor.foreground": "#812db9",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#542ebe"
 	},
 	"tokenColors": [
 		{
@@ -26,8 +26,8 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#EEFFFF"
+				"fontStyle": "italic",
+				"foreground": "#9dc2c2"
 			}
 		},
 		{
@@ -103,7 +103,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle":"bold",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -155,7 +155,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f1e360",
+				"foreground": "#9c5e8f",
 				"fontStyle": "italic"
 			}
 		},
@@ -173,7 +173,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFCB6B"
+				"foreground": "#C792EA",
 			}
 		},
 		{
