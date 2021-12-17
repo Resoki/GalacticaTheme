@@ -1,8 +1,9 @@
 ### Galactica Theme
 Theme for Vs Code: Galactica Theme
 
+
 ### Installation
-* On Vs Code at left click 'Extensions' and search 'galactica-theme', then click install.
+* On Vs Code at Extensions' search 'galactica-theme', then click install and enable theme.
 
 ### Version
 * V0.0.1 > Project init on git and marketplace Vs Code
